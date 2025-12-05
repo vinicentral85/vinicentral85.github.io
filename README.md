@@ -1,5 +1,7 @@
 # Vinicius de Oliveira
 
+![Vinicius de Oliveira](./Vini2020.png)
+
 **Ator Brasileiro**
 
 ---
