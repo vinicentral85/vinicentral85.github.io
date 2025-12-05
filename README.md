@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Vinicius de Oliveira"
+date: 2025-12-05 12:00:00 -0300
+tags: [vinicius de oliveira, ator, central do brasil, fernanda montenegro, walter sales, instagram]
+permalink:  /
+languages: ["pt-BR", "en"]
+default_lang: "pt-BR"
+exclude_from_localizations: ["assets", "images"]
+---
+
 # Vinicius de Oliveira
 
 <img src="./Vini2025.png" alt="Vinicius de Oliveira" width="300">
