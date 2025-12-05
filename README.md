@@ -1,6 +1,6 @@
 # Vinicius de Oliveira
 
-![Vinicius de Oliveira](./Vini2020.png)
+<img src="./Vini2025.png" alt="Vinicius de Oliveira" width="300">
 
 **Ator Brasileiro**
 
