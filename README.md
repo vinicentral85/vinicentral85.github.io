@@ -23,7 +23,8 @@ exclude_from_localizations: ["assets", "images"]
 **Nascimento:** 18 de julho de 1985  
 **Local:** Rio de Janeiro, RJ, Brasil  
 **Profissão:** Ator  
-**Instagram:** [@vinicentral](https://www.instagram.com/vinicentral/)
+**Instagram:** [@vinicentral](https://www.instagram.com/vinicentral/)   
+**Wikipedia:** [Vinícius de Oliveira](https://pt.wikipedia.org/wiki/Vin%C3%ADcius_de_Oliveira)
 
 ---
 
