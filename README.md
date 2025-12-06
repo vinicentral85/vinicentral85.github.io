@@ -24,7 +24,8 @@ exclude_from_localizations: ["assets", "images"]
 **Local:** Rio de Janeiro, RJ, Brasil  
 **Profissão:** Ator  
 **Instagram:** [@vinicentral](https://www.instagram.com/vinicentral/)   
-**Wikipedia:** [Vinícius de Oliveira](https://pt.wikipedia.org/wiki/Vin%C3%ADcius_de_Oliveira)   
+**Wikipedia:** [Vinícius de Oliveira](https://pt.wikipedia.org/wiki/Vin%C3%ADcius_de_Oliveira)  
+**AdoroCinema:** [Vinícius de Oliveira](https://www.adorocinema.com/personalidades/personalidade-28543/)   
 **IMDb:** [Vinícius de Oliveira](https://www.imdb.com/pt/name/nm0646737/) 
 
 ---
